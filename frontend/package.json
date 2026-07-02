@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -22,5 +23,6 @@
     "eslint-config-next": "16.2.9",
     "tailwindcss": "^4",
     "typescript": "^5"
+    
   }
 }
